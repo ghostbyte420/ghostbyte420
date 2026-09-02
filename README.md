@@ -2,7 +2,7 @@
 
 **Unleash Your Creativity**</br>
 
-uoAvox is a custom game engine tailored for hobbyists and developers passionate about Ultima Online™ but eager to craft entirely original experiences. Rooted in the Ultima Online™ RunUO emulator (v2.7), it’s completely free from Ultima Online’s code and constraints - giving users the power to design unique worlds, storylines, and gameplay experiences with complete creative freedom.
+uoAvox is a custom game engine tailored for hobbyists and developers passionate about Ultima Online™ but eager to craft entirely original experiences. Rooted in the Ultima Online™ RunUO emulator (v2.7), it’s completely free from Ultima Online’s code and constraints giving users the power to design unique worlds, storylines, and gameplay experiences with complete creative freedom.
 
 ---
 
